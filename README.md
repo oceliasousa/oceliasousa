@@ -1,7 +1,7 @@
 <h1 align="center">Hi guys! I'm Océlia Sousa</h1>
 
-- 👀 I’m interested in games, movies, series, animes and alot music
-- 🌱 I’m currently learning a bunch of stuff 
+- 👀 I’m interested in <b>coding</b>, games, movies, series, animes and alot music
+- 🌱 I’m currently learning a bunch of stuff (Languages, Frameworks and Tools)
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Ocelia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
