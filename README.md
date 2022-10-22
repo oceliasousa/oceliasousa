@@ -1,14 +1,8 @@
-# Hi guys! I'm Océlia Sousa
+<h1 align="center">Hi guys! I'm Océlia Sousa</h1>
 
 - 👀 I’m interested in games, movies, series, animes and alot music
 - 🌱 I’m currently learning a bunch of stuff 
 
-
-<div align="center">
-  <a href="https://github.com/oceliasousa">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oceliasousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oceliasousa&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Ocelia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ocelia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -16,6 +10,14 @@
   <img align="center" alt="Ocelia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ocelia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ocelia-RStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
+</div>
+
+##
+
+<div align="center">
+  <a href="https://github.com/oceliasousa">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oceliasousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oceliasousa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##
