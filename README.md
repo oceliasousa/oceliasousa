@@ -1,6 +1,6 @@
 <h1 align="center">Hi guys! I'm Océlia Sousa</h1>
 
-- 👀 I’m interested in <b>coding</b>, games, movies, series, animes and a lot of music
+- 👀 I’m interested in <em><b>coding</b></em>, games, movies, series, animes and a lot of music
 - 🌱 I’m currently learning a bunch of stuff (Languages, Frameworks and Tools)
 
 <div align="center" style="display: inline_block"><br>
