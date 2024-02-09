@@ -30,6 +30,6 @@
    <a href="https://instagram.com/oceliadesousa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5561998112469" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   
-  ![Snake animation](https://github.com/oceliasousa/oceliasousa/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/oceliasousa/oceliasousa/blob/output/github-contribution-grid-snake.svg)
   
 <div/>  
