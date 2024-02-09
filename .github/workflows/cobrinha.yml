@@ -1,5 +1,4 @@
-# Nome da Actions:  
-name: Snake Game
+ name: Snake Game
 
 on:
   schedule:
@@ -7,7 +6,6 @@ on:
 
   workflow_dispatch:
 
-# Regras
 jobs:
   build:
     runs-on: ubuntu-latest
